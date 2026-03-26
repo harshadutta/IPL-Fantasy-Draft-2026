@@ -1,0 +1,33 @@
+player,team,role,nationality,expected_batting_pos,expected_overs_bowled,prob_all_14,prob_starting,notes
+Shubman Gill,GT,Batter,Indian,1,0,95.0,99.0,Captain; opens batting with Sudharsan. Indian top-order mainstay. No injury concerns. Near-certain for all 14.
+B Sai Sudharsan,GT,Batter,Indian,2,0,90.0,97.0,Left-hand opener; Orange Cap winner 2025 (759 runs). Recovered from rib fracture (Jan 2026); training with squad at Nathdwara camp. Fit for first match.
+Jos Buttler,GT,WK-Batter,Overseas,3,0,85.0,95.0,"Overseas slot 1. Explosive WK-bat at No.3. Poor T20 WC 2026 form (avg 20.4, SR 135). Overseas so small rotation risk. May be rested for 1-2 games if form dips."
+Glenn Phillips,GT,All-rounder,Overseas,4,2,75.0,80.0,Overseas slot 2 (contested). Avg 41 at SR 148.66 since 2025; offbreak bowling option + elite fielding. Competes with Jason Holder for 4th overseas spot. Phillips preferred on batting-friendly pitches.
+Washington Sundar,GT,All-rounder,Indian,5,4,85.0,90.0,Off-spin allrounder. Crucial in middle overs. Batted at No.4 last season with limited impact; may slide to No.5/6. Bowls 4 overs of tight off-spin. Reliable selection.
+M Shahrukh Khan,GT,All-rounder,Indian,6,1,80.0,85.0,Power-hitting finisher. Part-time medium pace (0-1 overs). May be used as Impact Player on some days. Strong six-hitting ability in death overs.
+Rahul Tewatia,GT,All-rounder,Indian,7,2,70.0,75.0,Left-hand finisher; part-time legbreak. Veteran presence. May rotate with Sai Kishore or be used as Impact Player depending on match-ups.
+Rashid Khan,GT,All-rounder,Overseas,8,4,90.0,98.0,"Overseas slot 3. World-class leg-spinner + lower-order hitter. Worst IPL season in 2025 (<10 wkts, eco 9+, avg 57). Still near-certain starter. Guaranteed 4 overs."
+Kagiso Rabada,GT,Bowler,Overseas,9,4,80.0,85.0,Overseas slot 4 (contested). SA pace spearhead. Some experts (Mukund) pick Holder over Rabada. Near-certain on pace-friendly tracks. May miss 1-2 if Jason Holder rotated in.
+Mohammed Siraj,GT,Bowler,Indian,10,4,90.0,95.0,India fast bowler. Led GT pace attack in 2025 (16 wkts in 15 matches). New-ball and death overs specialist. Very reliable; should play nearly all matches.
+Prasidh Krishna,GT,Bowler,Indian,11,4,60.0,65.0,"Tall Indian seamer; bounce and pace. May rotate with R Sai Kishore depending on pitch. On spin-friendly tracks, Sai Kishore starts instead. Backup pacer role."
+Jason Holder,GT,All-rounder,Overseas,5,4,65.0,70.0,"Overseas slot contender. WI allrounder; excellent T20 WC 2026 (141 runs at SR 174, plus wickets). Competes with Phillips/Rabada for overseas slots. Starts on seam-friendly pitches."
+R Sai Kishore,GT,All-rounder,Indian,9,4,55.0,60.0,Left-arm orthodox spinner. 19 wickets in IPL 2025. Rotates with Prasidh Krishna depending on conditions. Impact Player candidate. Excellent economy.
+Kumar Kushagra,GT,WK,Indian,4,0,15.0,20.0,Uncapped WK-bat from Jharkhand. R Ashwin picked him in his XII. Could be Impact Player option. Unlikely to start unless Buttler rested.
+Anuj Rawat,GT,WK,Indian,7,0,10.0,15.0,Backup Indian WK-bat. Would only play if Buttler unavailable and management wants Indian WK. Behind Kushagra in pecking order per most experts.
+Rishabh Pant,LSG,WK-Batter,Indian,3,0,95.0,99.0,Captain and WK. Confirmed to bat No.3 for 2026 (per PTI/team sources). Forgettable 2025 (202 runs; avg 19.5 vs spin). Make-or-break season. Near-certain all 14.
+Aiden Markram,LSG,Batter,Overseas,1,1,90.0,97.0,Overseas slot 1. SA top-order bat; opens with Marsh. Part-time off-spin (0-1 overs). Aakash Chopra tips him as LSG's highest run-getter. Stable selection.
+Mitchell Marsh,LSG,All-rounder,Overseas,2,2,85.0,95.0,"Overseas slot 2. Australian pace-bowling allrounder. 627 runs in IPL 2025 (avg 48.23, SR 163.70). Opens batting. Bowls 1-2 overs of medium-fast. May miss start if Aus players delayed."
+Nicholas Pooran,LSG,WK-Batter,Overseas,4,0,90.0,97.0,Overseas slot 3. WI explosive power-hitter. 524 runs in 2025 (SR 196.25). Drops to No.4 with Pant at No.3. Does not bowl. Near-certain every match.
+Ayush Badoni,LSG,Batter,Indian,5,1,70.0,80.0,Young Indian bat; innovative middle-order. Part-time legbreak (0-1 overs). May lose spot to Himmat Singh or be used as Impact Player. Form-dependent.
+Abdul Samad,LSG,All-rounder,Indian,6,1,65.0,75.0,Power-hitting allrounder; part-time legbreak (0-1 overs). Competes with Badoni and Himmat Singh for middle-order spots. Impact Player candidate.
+Shahbaz Ahmed,LSG,All-rounder,Indian,7,4,85.0,92.0,Left-arm orthodox spin allrounder. Key balance provider batting at 7 and bowling 4 overs. Stable selection; plays as primary Indian spinner.
+Mohammed Shami,LSG,Bowler,Indian,9,4,65.0,75.0,India seamer. Post-injury concerns but found form in SMAT 2025 (16 wkts in 7 games). Aakash Chopra tips him as LSG highest wicket-taker. Workload management likely; may miss 3-5 games.
+Avesh Khan,LSG,Bowler,Indian,8,4,80.0,88.0,Indian seamer. Consistent performer. Takes Hasaranga/Nortje spot when overseas quota full. Reliable wicket-taking option. Should play most matches.
+Mayank Yadav,LSG,Bowler,Indian,11,4,45.0,65.0,Express pace (150+ kph). Major fitness concerns: out 9 months with lumbar stress fracture + toe injury. Says he is 100% fit post-surgery. Irfan Pathan critical ('6 matches in 2 years'). High upside but likely to miss 5-7 games.
+Anrich Nortje,LSG,Bowler,Overseas,10,4,55.0,70.0,Overseas slot 4 (contested with Hasaranga). SA express pacer (150+ kph). 60+ IPL wickets. Preferred on flat/pace-friendly pitches. Rotates with Hasaranga.
+Wanindu Hasaranga,LSG,All-rounder,Overseas,8,4,40.0,55.0,Overseas slot 4 (contested with Nortje). SL leg-spinning allrounder; 130+ T20I wickets. NOC DELAYED: hamstring tear (Feb 2026 T20 WC). Failed to attend SLC fitness test (Mar 23). Likely to miss first few matches. Preferred on spin-friendly tracks.
+Mohsin Khan,LSG,Bowler,Indian,10,4,35.0,40.0,Left-arm fast. Backup pacer. Plays when Shami/Mayank unavailable. Has talent but limited opportunities with stacked pace lineup.
+Digvesh Rathi,LSG,Bowler,Indian,10,4,50.0,55.0,Indian seamer; uncapped. X-factor with wicket-taking ability. Multiple experts include him in starting XI. Could start if Hasaranga unavailable and team needs 4th seamer.
+Himmat Singh,LSG,Batter,Indian,6,1,30.0,40.0,Right-hand bat; part-time off-spin. Impact Player candidate per Aakash Chopra. Competes with Badoni/Samad for middle-order spot.
+Arshin Kulkarni,LSG,All-rounder,Indian,7,2,20.0,25.0,Indian allrounder; bat and off-spin. Provides flexibility but behind Shahbaz Ahmed and Badoni in pecking order.
+Josh Inglis,LSG,WK-Batter,Overseas,4,0,5.0,5.0,Overseas WK-bat signed for INR 8.6 cr. Expected to be UNAVAILABLE for much of IPL 2026. Behind Pooran and Pant as WK options. Unlikely to feature.
