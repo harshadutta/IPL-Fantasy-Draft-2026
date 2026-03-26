@@ -1,0 +1,22 @@
+batting_pos_label,venue_type,innings,n,avg_bat_pts,median_bat_pts,avg_balls_faced,avg_sr,innings_label,concept,bat_rank
+Opener (1-2),Balanced,2,27,77.6,70.0,26.0,127.2,2nd (chase),Opener (1-2) | Balanced | 2nd (chase),1
+Opener (1-2),Batting-friendly,1,89,76.6,68.0,25.0,148.7,1st (bat first),Opener (1-2) | Batting-friendly | 1st (bat first),2
+One-down (3),Batting-friendly,1,42,69.6,61.0,20.4,157.7,1st (bat first),One-down (3) | Batting-friendly | 1st (bat first),3
+Opener (1-2),Batting-friendly,2,82,68.0,65.0,21.0,154.3,2nd (chase),Opener (1-2) | Batting-friendly | 2nd (chase),4
+Opener (1-2),Balanced,1,29,67.0,50.0,18.9,161.0,1st (bat first),Opener (1-2) | Balanced | 1st (bat first),5
+One-down (3),Batting-friendly,2,39,60.6,57.0,21.7,128.7,2nd (chase),One-down (3) | Batting-friendly | 2nd (chase),6
+Middle (4-5),Bowling-friendly,1,25,56.7,49.0,22.3,133.8,1st (bat first),Middle (4-5) | Bowling-friendly | 1st (bat first),7
+Middle (4-5),Batting-friendly,2,71,54.0,46.0,18.9,148.5,2nd (chase),Middle (4-5) | Batting-friendly | 2nd (chase),8
+Opener (1-2),Bowling-friendly,2,25,51.1,43.0,19.8,134.8,2nd (chase),Opener (1-2) | Bowling-friendly | 2nd (chase),9
+Middle (4-5),Balanced,2,26,43.7,29.5,14.5,157.4,2nd (chase),Middle (4-5) | Balanced | 2nd (chase),10
+Middle (4-5),Batting-friendly,1,81,43.6,31.0,16.7,135.6,1st (bat first),Middle (4-5) | Batting-friendly | 1st (bat first),11
+Lower-middle (6-7),Batting-friendly,1,57,42.0,36.0,12.4,175.6,1st (bat first),Lower-middle (6-7) | Batting-friendly | 1st (bat first),12
+Middle (4-5),Bowling-friendly,2,21,40.1,31.0,16.3,135.7,2nd (chase),Middle (4-5) | Bowling-friendly | 2nd (chase),13
+Lower-middle (6-7),Batting-friendly,2,47,36.3,22.0,12.2,142.7,2nd (chase),Lower-middle (6-7) | Batting-friendly | 2nd (chase),14
+Opener (1-2),Bowling-friendly,1,22,36.0,22.0,15.3,112.7,1st (bat first),Opener (1-2) | Bowling-friendly | 1st (bat first),15
+Middle (4-5),Balanced,1,31,34.3,20.0,14.2,119.7,1st (bat first),Middle (4-5) | Balanced | 1st (bat first),16
+Lower-middle (6-7),Balanced,1,26,30.0,19.5,14.2,123.2,1st (bat first),Lower-middle (6-7) | Balanced | 1st (bat first),17
+Lower-middle (6-7),Bowling-friendly,2,20,23.8,21.0,10.9,113.4,2nd (chase),Lower-middle (6-7) | Bowling-friendly | 2nd (chase),18
+Lower-middle (6-7),Bowling-friendly,1,23,23.3,21.0,9.0,144.4,1st (bat first),Lower-middle (6-7) | Bowling-friendly | 1st (bat first),19
+Tail (8+),Balanced,1,22,19.3,12.5,9.8,112.9,1st (bat first),Tail (8+) | Balanced | 1st (bat first),20
+Tail (8+),Batting-friendly,2,34,17.7,11.0,8.5,112.1,2nd (chase),Tail (8+) | Batting-friendly | 2nd (chase),21
