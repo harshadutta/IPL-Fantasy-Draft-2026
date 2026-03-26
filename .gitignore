@@ -1,0 +1,38 @@
+# Data files (large)
+data/raw/*.zip
+data/raw/*.json
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output (regenerable)
+# output/*.csv  # keep output tracked for sharing
+
+# Obsidian
+.obsidian/
+
+# Temp files
+*.tmp
+*.tmp.*

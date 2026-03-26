@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "find \"$CLAUDE_PROJECT_DIR\" -name '*.tmp.*' -type f -delete 2>/dev/null; exit 0"
+          }
+        ]
+      }
+    ]
+  }
+}
