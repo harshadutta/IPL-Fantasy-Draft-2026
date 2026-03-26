@@ -2,7 +2,7 @@
 data/raw/*.zip
 data/raw/*.json
 data/raw/*.csv
-data/processed/*.csv
+# data/processed/*.csv  # keep processed data tracked
 data/processed/*.pkl
 
 # Python
