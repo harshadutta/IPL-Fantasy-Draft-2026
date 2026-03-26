@@ -1,0 +1,111 @@
+player,team,role,nationality,expected_batting_pos,expected_overs_bowled,games_confidence,notes
+Ruturaj Gaikwad,CSK,Batter,Indian,1,0,High,Captain; opens the batting
+Sanju Samson,CSK,WK,Indian,2,0,High,Traded from RR; aggressive opener/top-order bat
+Ayush Mhatre,CSK,Batter,Indian,3,0,Medium,Young talent; may bat 3 or be used as impact sub
+Kartik Sharma,CSK,All-rounder,Indian,4,2,High,INR 14.20 cr uncapped buy; left-arm spin allrounder
+Dewald Brevis,CSK,Batter,Overseas,5,1,High,Overseas; explosive middle-order bat with part-time legbreak
+Shivam Dube,CSK,All-rounder,Indian,6,1,High,Left-hand power hitter; part-time medium pace
+Prashant Veer,CSK,All-rounder,Indian,7,4,High,INR 14.20 cr uncapped buy; off-spin allrounder
+MS Dhoni,CSK,WK,Indian,8,0,High,Finisher/WK; likely final IPL season
+Jamie Overton,CSK,All-rounder,Overseas,9,4,High,Overseas; pace-bowling allrounder
+Noor Ahmad,CSK,Bowler,Overseas,10,4,High,Overseas; Afghan left-arm wrist spinner
+Matt Henry,CSK,Bowler,Overseas,11,4,Medium,Overseas; NZ seamer; competes with Nathan Ellis for spot
+Rohit Sharma,MI,Batter,Indian,1,0,High,Opens batting; MI legend
+Quinton de Kock,MI,WK,Overseas,2,0,High,Overseas; explosive keeper-opener
+Suryakumar Yadav,MI,Batter,Indian,3,0,High,No.3/anchor; 360-degree batter
+Tilak Varma,MI,Batter,Indian,4,0,High,Young Indian star; consistent middle-order bat
+Hardik Pandya,MI,All-rounder,Indian,5,4,High,Captain; pace-bowling allrounder
+Will Jacks,MI,All-rounder,Overseas,6,2,High,Overseas; power-hitting allrounder with off-spin
+Naman Dhir,MI,All-rounder,Indian,7,1,Medium,Young left-hand bat; part-time offbreak
+Mitchell Santner,MI,All-rounder,Overseas,8,4,High,Overseas; left-arm orthodox spin allrounder
+Shardul Thakur,MI,All-rounder,Indian,9,4,Medium,Seam-bowling allrounder; may rotate with Deepak Chahar
+Trent Boult,MI,Bowler,Overseas,10,4,High,Overseas; elite left-arm new-ball bowler
+Jasprit Bumrah,MI,Bowler,Indian,11,4,High,India's best fast bowler; death overs specialist
+Virat Kohli,RCB,Batter,Indian,1,0,High,Opens batting; all-time IPL run-scorer
+Phil Salt,RCB,WK,Overseas,2,0,High,Overseas; explosive keeper-opener
+Devdutt Padikkal,RCB,Batter,Indian,3,0,Medium,Left-hand bat; elegant top-order player
+Rajat Patidar,RCB,Batter,Indian,4,0,High,Captain; middle-order mainstay
+Jacob Bethell,RCB,All-rounder,Overseas,5,2,High,Overseas; England young gun; left-arm orthodox spin option
+Tim David,RCB,Batter,Overseas,6,0,High,Overseas; designated power-hitter/finisher
+Venkatesh Iyer,RCB,All-rounder,Indian,7,2,High,Left-hand bat allrounder; medium pace option
+Krunal Pandya,RCB,All-rounder,Indian,8,4,High,Left-arm orthodox spin; batting utility in middle order
+Bhuvneshwar Kumar,RCB,Bowler,Indian,9,4,High,Experienced Indian seamer; swing and death bowling
+Nuwan Thushara,RCB,Bowler,Overseas,10,4,Medium,Overseas; SL pacer; competes with Jacob Duffy; NOC uncertainty
+Mangesh Yadav,RCB,Bowler,Indian,11,4,Medium,Express pace; replaces injured Yash Dayal; uncapped
+KL Rahul,DC,Batter,Indian,1,0,High,Opens batting; experienced Indian top-order bat
+Pathum Nissanka,DC,Batter,Overseas,2,0,Medium,Overseas; SL opener; competes with Ben Duckett for opening spot
+Axar Patel,DC,All-rounder,Indian,3,4,High,Captain; left-arm orthodox spin allrounder
+Karun Nair,DC,Batter,Indian,4,0,High,Middle-order bat; strong domestic form
+David Miller,DC,Batter,Overseas,5,0,High,Overseas; SA left-hand finisher
+Tristan Stubbs,DC,Batter,Overseas,6,0,High,Overseas; SA explosive middle-order bat
+Ashutosh Sharma,DC,All-rounder,Indian,7,1,Medium,Right-hand power hitter; part-time medium pace
+Kuldeep Yadav,DC,Bowler,Indian,8,4,High,India's premier wrist spinner
+Auqib Nabi Dar,DC,All-rounder,Indian,9,4,Medium,J&K seam-bowling allrounder; uncapped; INR 8.40 cr buy
+Mitchell Starc,DC,Bowler,Overseas,10,4,High,Overseas; elite left-arm fast; powerplay/death specialist
+T Natarajan,DC,Bowler,Indian,11,4,High,Left-arm yorker specialist
+Shubman Gill,GT,Batter,Indian,1,0,High,Captain; Indian top-order mainstay
+B Sai Sudharsan,GT,Batter,Indian,2,0,High,Left-hand opener; elegant stroke-maker
+Jos Buttler,GT,WK,Overseas,3,0,High,Overseas; England WK-bat; explosive top-order
+Glenn Phillips,GT,All-rounder,Overseas,4,2,High,Overseas; NZ power-hitter with offbreak bowling
+Washington Sundar,GT,All-rounder,Indian,5,4,High,Off-spin allrounder; crucial in middle overs
+M Shahrukh Khan,GT,All-rounder,Indian,6,1,High,Power-hitting finisher; part-time medium pace
+Rahul Tewatia,GT,All-rounder,Indian,7,2,Medium,Left-hand bat finisher; legbreak part-timer
+Rashid Khan,GT,All-rounder,Overseas,8,4,High,Overseas; world-class leg-spinner; lower-order hitter
+Kagiso Rabada,GT,Bowler,Overseas,9,4,High,Overseas; SA pace spearhead
+Mohammed Siraj,GT,Bowler,Indian,10,4,High,India fast bowler; new-ball and death overs
+Prasidh Krishna,GT,Bowler,Indian,11,4,Medium,Tall Indian seamer; bounce and pace; may rotate
+Finn Allen,KKR,Batter,Overseas,1,0,High,Overseas; NZ explosive opener
+Ajinkya Rahane,KKR,Batter,Indian,2,0,High,Captain; anchor role; experienced
+Cameron Green,KKR,All-rounder,Overseas,3,4,High,Overseas; INR 25.20 cr record buy; pace-bowling allrounder
+Angkrish Raghuvanshi,KKR,Batter,Indian,4,0,Medium,Young Indian bat; may rotate based on form
+Rinku Singh,KKR,Batter,Indian,5,0,High,Finisher; left-hand middle-order bat
+Tejasvi Singh,KKR,WK,Indian,6,0,Medium,Young WK-bat from Delhi; uncapped; power-hitter
+Ramandeep Singh,KKR,All-rounder,Indian,7,1,High,Indian allrounder; handy medium pace
+Sunil Narine,KKR,All-rounder,Overseas,8,4,High,Overseas; mystery spinner; can pinch-hit
+Varun Chakravarthy,KKR,Bowler,Indian,9,4,High,India mystery spinner; excellent economy
+Vaibhav Arora,KKR,Bowler,Indian,10,4,High,Indian seamer; leads pace attack with Harshit Rana injured
+Blessing Muzarabani,KKR,Bowler,Overseas,11,4,High,Overseas; Zimbabwe pacer; replaced Mustafizur Rahman
+Rishabh Pant,LSG,WK,Indian,1,0,High,Captain and WK; opens or bats top 3
+Aiden Markram,LSG,Batter,Overseas,2,1,High,Overseas; SA top-order bat; part-time off-spin
+Mitchell Marsh,LSG,All-rounder,Overseas,3,2,High,Overseas; Australian pace-bowling allrounder
+Nicholas Pooran,LSG,WK,Overseas,4,0,High,Overseas; WI explosive power-hitter
+Ayush Badoni,LSG,Batter,Indian,5,1,Medium,Young Indian bat; innovative middle-order player
+Abdul Samad,LSG,All-rounder,Indian,6,1,Medium,Power-hitting allrounder; part-time legbreak
+Shahbaz Ahmed,LSG,All-rounder,Indian,7,4,High,Left-arm orthodox spin allrounder
+Avesh Khan,LSG,Bowler,Indian,8,4,High,Indian seamer; takes Hasaranga spot when overseas quota full
+Mohammed Shami,LSG,Bowler,Indian,9,4,Medium,India seamer; fitness concerns post-injury
+Anrich Nortje,LSG,Bowler,Overseas,10,4,High,Overseas; SA express pacer
+Mayank Yadav,LSG,Bowler,Indian,11,4,Medium,Express pace; fitness concerns; may miss some games
+Prabhsimran Singh,PBKS,WK,Indian,1,0,High,Aggressive opener-WK
+Priyansh Arya,PBKS,Batter,Indian,2,0,Medium,Left-hand aggressive opener; may alternate
+Shreyas Iyer,PBKS,Batter,Indian,3,0,High,Captain; premier Indian middle-order bat
+Marcus Stoinis,PBKS,All-rounder,Overseas,4,2,High,Overseas; Aus pace-bowling allrounder
+Nehal Wadhera,PBKS,Batter,Indian,5,0,High,Power-hitting Indian middle-order bat
+Azmatullah Omarzai,PBKS,All-rounder,Overseas,6,4,High,Overseas; Afghan seam-bowling allrounder
+Shashank Singh,PBKS,All-rounder,Indian,7,1,High,Indian finisher; part-time medium pace
+Marco Jansen,PBKS,All-rounder,Overseas,8,4,High,Overseas; SA left-arm fast-bowling allrounder
+Harpreet Brar,PBKS,All-rounder,Indian,9,4,High,Left-arm orthodox spin allrounder
+Yuzvendra Chahal,PBKS,Bowler,Indian,10,4,High,India's leading IPL wicket-taker; legbreak
+Arshdeep Singh,PBKS,Bowler,Indian,11,4,High,India left-arm death-overs specialist
+Yashasvi Jaiswal,RR,Batter,Indian,1,0,High,India opener; aggressive left-hand bat
+Vaibhav Suryavanshi,RR,Batter,Indian,2,0,High,Youngest IPL player; left-hand opener
+Riyan Parag,RR,All-rounder,Indian,3,1,High,Captain; right-hand bat; part-time offbreak
+Shimron Hetmyer,RR,Batter,Overseas,4,0,High,Overseas; WI left-hand power-hitter
+Dhruv Jurel,RR,WK,Indian,5,0,High,India WK-bat; can bat middle order
+Ravindra Jadeja,RR,All-rounder,Indian,6,4,High,India legend; left-arm orthodox; traded from CSK
+Dasun Shanaka,RR,All-rounder,Overseas,7,3,Medium,Overseas; SL T20I captain; replaced injured Sam Curran
+Ravi Bishnoi,RR,Bowler,Indian,8,4,High,India legspinner; INR 7.2 cr auction buy
+Jofra Archer,RR,Bowler,Overseas,9,4,Medium,Overseas; England express pacer; fitness history is a concern
+Tushar Deshpande,RR,Bowler,Indian,10,4,High,Indian seamer; consistent wicket-taker
+Nandre Burger,RR,Bowler,Overseas,11,4,Medium,Overseas; SA left-arm pacer; competes with Adam Milne/Maphaka
+Travis Head,SRH,Batter,Overseas,1,1,High,Overseas; Aus aggressive opener; part-time offbreak
+Abhishek Sharma,SRH,All-rounder,Indian,2,2,High,Vice-captain; left-hand opener; left-arm orthodox
+Ishan Kishan,SRH,WK,Indian,3,0,High,Interim captain while Cummins injured; WK-bat
+Heinrich Klaasen,SRH,WK,Overseas,4,0,High,Overseas; SA power-hitting WK; middle-order destroyer
+Nitish Kumar Reddy,SRH,All-rounder,Indian,5,2,High,Young Indian allrounder; seam and bat utility
+Liam Livingstone,SRH,All-rounder,Overseas,6,2,High,Overseas; England power-hitter; legbreak bowling
+Harshal Patel,SRH,Bowler,Indian,7,4,High,Experienced Indian seamer; death overs specialist
+Pat Cummins,SRH,All-rounder,Overseas,8,4,Medium,Overseas; Australia captain; back injury concern early season
+Zeeshan Ansari,SRH,Bowler,Indian,9,4,Medium,Young left-arm orthodox spinner; uncapped talent
+Shivam Mavi,SRH,Bowler,Indian,10,4,Medium,Indian seamer; plays when overseas quota full (Malinga is backup overseas pacer)
+Jaydev Unadkat,SRH,Bowler,Indian,11,4,Medium,Experienced Indian left-arm seamer; swing option

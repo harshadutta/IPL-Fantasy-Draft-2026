@@ -1,0 +1,251 @@
+player,team,role,nationality,batting_style,bowling_style
+MS Dhoni,CSK,WK,Indian,Right-hand bat,Right-arm medium
+Ruturaj Gaikwad,CSK,Batter,Indian,Right-hand bat,Right-arm offbreak
+Sanju Samson,CSK,WK,Indian,Right-hand bat,Right-arm offbreak
+Ayush Mhatre,CSK,Batter,Indian,Right-hand bat,Right-arm offbreak
+Dewald Brevis,CSK,Batter,Overseas,Right-hand bat,Right-arm legbreak
+Shivam Dube,CSK,All-rounder,Indian,Left-hand bat,Right-arm medium
+Urvil Patel,CSK,Batter,Indian,Right-hand bat,Right-arm medium
+Noor Ahmad,CSK,Bowler,Overseas,Left-hand bat,Left-arm wrist spin
+Nathan Ellis,CSK,Bowler,Overseas,Right-hand bat,Right-arm fast-medium
+Shreyas Gopal,CSK,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Khaleel Ahmed,CSK,Bowler,Indian,Right-hand bat,Left-arm fast-medium
+Ramakrishna Ghosh,CSK,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Mukesh Choudhary,CSK,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Jamie Overton,CSK,All-rounder,Overseas,Right-hand bat,Right-arm fast
+Gurjapneet Singh,CSK,Bowler,Indian,Right-hand bat,Left-arm fast-medium
+Anshul Kamboj,CSK,All-rounder,Indian,Right-hand bat,Right-arm fast-medium
+Prashant Veer,CSK,All-rounder,Indian,Right-hand bat,Right-arm offbreak
+Kartik Sharma,CSK,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Rahul Chahar,CSK,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Akeal Hosein,CSK,Bowler,Overseas,Left-hand bat,Left-arm orthodox
+Matt Henry,CSK,Bowler,Overseas,Right-hand bat,Right-arm fast-medium
+Matthew Short,CSK,Batter,Overseas,Right-hand bat,Right-arm offbreak
+Sarfaraz Khan,CSK,Batter,Indian,Right-hand bat,Right-arm legbreak
+Zak Foulkes,CSK,Bowler,Overseas,Right-hand bat,Right-arm fast-medium
+Aman Khan,CSK,Batter,Indian,Right-hand bat,Right-arm medium
+KL Rahul,DC,Batter,Indian,Right-hand bat,Right-arm medium
+Axar Patel,DC,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Kuldeep Yadav,DC,Bowler,Indian,Left-hand bat,Left-arm wrist spin
+Mitchell Starc,DC,Bowler,Overseas,Left-hand bat,Left-arm fast
+Tristan Stubbs,DC,Batter,Overseas,Right-hand bat,Right-arm medium
+Karun Nair,DC,Batter,Indian,Right-hand bat,Right-arm offbreak
+Nitish Rana,DC,Batter,Indian,Left-hand bat,Left-arm orthodox
+Abishek Porel,DC,WK,Indian,Left-hand bat,NA
+T Natarajan,DC,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Mukesh Kumar,DC,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Ashutosh Sharma,DC,All-rounder,Indian,Right-hand bat,Right-arm medium
+Sameer Rizvi,DC,All-rounder,Indian,Right-hand bat,Right-arm offbreak
+Madhav Tiwari,DC,Batter,Indian,Right-hand bat,NA
+Vipraj Nigam,DC,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Tripurana Vijay,DC,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Dushmantha Chameera,DC,Bowler,Overseas,Right-hand bat,Right-arm fast
+Ajay Mandal,DC,All-rounder,Indian,Right-hand bat,Right-arm medium
+Auqib Nabi Dar,DC,All-rounder,Indian,Right-hand bat,Right-arm fast-medium
+Pathum Nissanka,DC,Batter,Overseas,Right-hand bat,Right-arm offbreak
+David Miller,DC,Batter,Overseas,Left-hand bat,Right-arm offbreak
+Ben Duckett,DC,Batter,Overseas,Left-hand bat,Left-arm orthodox
+Lungi Ngidi,DC,Bowler,Overseas,Right-hand bat,Right-arm fast
+Kyle Jamieson,DC,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Prithvi Shaw,DC,Batter,Indian,Right-hand bat,Right-arm legbreak
+Sahil Parikh,DC,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Shubman Gill,GT,Batter,Indian,Right-hand bat,Right-arm medium
+Jos Buttler,GT,WK,Overseas,Right-hand bat,NA
+Rashid Khan,GT,All-rounder,Overseas,Right-hand bat,Right-arm legbreak
+Kagiso Rabada,GT,Bowler,Overseas,Left-hand bat,Right-arm fast
+B Sai Sudharsan,GT,Batter,Indian,Left-hand bat,Right-arm offbreak
+Glenn Phillips,GT,All-rounder,Overseas,Right-hand bat,Right-arm offbreak
+Washington Sundar,GT,All-rounder,Indian,Left-hand bat,Right-arm offbreak
+Rahul Tewatia,GT,All-rounder,Indian,Left-hand bat,Right-arm legbreak
+M Shahrukh Khan,GT,All-rounder,Indian,Right-hand bat,Right-arm medium
+Mohammed Siraj,GT,Bowler,Indian,Right-hand bat,Right-arm fast
+Prasidh Krishna,GT,Bowler,Indian,Right-hand bat,Right-arm fast
+R Sai Kishore,GT,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Manav Suthar,GT,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Jayant Yadav,GT,All-rounder,Indian,Right-hand bat,Right-arm offbreak
+Anuj Rawat,GT,WK,Indian,Left-hand bat,NA
+Kumar Kushagra,GT,WK,Indian,Right-hand bat,NA
+Ishant Sharma,GT,Bowler,Indian,Right-hand bat,Right-arm fast
+Nishant Sindhu,GT,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Gurnoor Brar,GT,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Arshad Khan,GT,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Jason Holder,GT,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Tom Banton,GT,Batter,Overseas,Right-hand bat,Right-arm medium
+Ashok Sharma,GT,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Luke Wood,GT,Bowler,Overseas,Left-hand bat,Left-arm fast-medium
+Prithvi Raj,GT,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Ajinkya Rahane,KKR,Batter,Indian,Right-hand bat,Right-arm medium
+Sunil Narine,KKR,All-rounder,Overseas,Left-hand bat,Right-arm offbreak
+Varun Chakravarthy,KKR,Bowler,Indian,Right-hand bat,Right-arm offbreak
+Rinku Singh,KKR,Batter,Indian,Left-hand bat,NA
+Cameron Green,KKR,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Angkrish Raghuvanshi,KKR,Batter,Indian,Left-hand bat,Right-arm medium
+Ramandeep Singh,KKR,All-rounder,Indian,Right-hand bat,Right-arm medium
+Rovman Powell,KKR,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Harshit Rana,KKR,Bowler,Indian,Right-hand bat,Right-arm fast
+Vaibhav Arora,KKR,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Umran Malik,KKR,Bowler,Indian,Right-hand bat,Right-arm fast
+Manish Pandey,KKR,Batter,Indian,Right-hand bat,Right-arm medium
+Anukul Roy,KKR,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Matheesha Pathirana,KKR,Bowler,Overseas,Right-hand bat,Right-arm fast
+Tejasvi Singh,KKR,WK,Indian,Right-hand bat,NA
+Finn Allen,KKR,Batter,Overseas,Right-hand bat,NA
+Rachin Ravindra,KKR,All-rounder,Overseas,Left-hand bat,Left-arm orthodox
+Tim Seifert,KKR,WK,Overseas,Right-hand bat,NA
+Akash Deep,KKR,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Rahul Tripathi,KKR,Batter,Indian,Right-hand bat,Right-arm legbreak
+Prashant Solanki,KKR,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Kartik Tyagi,KKR,Bowler,Indian,Right-hand bat,Right-arm fast
+Sarthak Ranjan,KKR,All-rounder,Indian,Right-hand bat,Right-arm medium
+Daksh Kamra,KKR,Batter,Indian,Right-hand bat,NA
+Blessing Muzarabani,KKR,Bowler,Overseas,Right-hand bat,Right-arm fast
+Rishabh Pant,LSG,WK,Indian,Left-hand bat,NA
+Nicholas Pooran,LSG,WK,Overseas,Left-hand bat,NA
+Mitchell Marsh,LSG,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Aiden Markram,LSG,Batter,Overseas,Right-hand bat,Right-arm offbreak
+Ayush Badoni,LSG,Batter,Indian,Right-hand bat,Right-arm legbreak
+Mohammed Shami,LSG,Bowler,Indian,Right-hand bat,Right-arm fast
+Mayank Yadav,LSG,Bowler,Indian,Right-hand bat,Right-arm fast
+Shahbaz Ahmed,LSG,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Abdul Samad,LSG,All-rounder,Indian,Right-hand bat,Right-arm legbreak
+Avesh Khan,LSG,Bowler,Indian,Right-hand bat,Right-arm fast
+Mohsin Khan,LSG,Bowler,Indian,Left-hand bat,Left-arm fast
+Manimaran Siddharth,LSG,Bowler,Indian,Left-hand bat,Left-arm orthodox
+Matthew Breetzke,LSG,Batter,Overseas,Right-hand bat,Right-arm medium
+Arjun Tendulkar,LSG,All-rounder,Indian,Left-hand bat,Left-arm fast-medium
+Arshin Kulkarni,LSG,All-rounder,Indian,Right-hand bat,Right-arm offbreak
+Akash Singh,LSG,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Himmat Singh,LSG,Batter,Indian,Right-hand bat,Right-arm offbreak
+Digvesh Rathi,LSG,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Prince Yadav,LSG,Batter,Indian,Left-hand bat,NA
+Josh Inglis,LSG,WK,Overseas,Right-hand bat,NA
+Wanindu Hasaranga,LSG,All-rounder,Overseas,Right-hand bat,Right-arm legbreak
+Anrich Nortje,LSG,Bowler,Overseas,Right-hand bat,Right-arm fast
+Mukul Choudhary,LSG,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Akshat Raghuwanshi,LSG,Batter,Indian,Right-hand bat,Right-arm medium
+Naman Tiwari,LSG,Batter,Indian,Right-hand bat,NA
+Rohit Sharma,MI,Batter,Indian,Right-hand bat,Right-arm offbreak
+Suryakumar Yadav,MI,Batter,Indian,Right-hand bat,Right-arm medium
+Jasprit Bumrah,MI,Bowler,Indian,Right-hand bat,Right-arm fast
+Hardik Pandya,MI,All-rounder,Indian,Right-hand bat,Right-arm fast-medium
+Tilak Varma,MI,Batter,Indian,Left-hand bat,Right-arm medium
+Trent Boult,MI,Bowler,Overseas,Right-hand bat,Left-arm fast
+Will Jacks,MI,All-rounder,Overseas,Right-hand bat,Right-arm offbreak
+Ryan Rickelton,MI,Batter,Overseas,Left-hand bat,NA
+Deepak Chahar,MI,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Naman Dhir,MI,All-rounder,Indian,Left-hand bat,Right-arm offbreak
+Mitchell Santner,MI,All-rounder,Overseas,Left-hand bat,Left-arm orthodox
+Shardul Thakur,MI,All-rounder,Indian,Right-hand bat,Right-arm fast-medium
+Sherfane Rutherford,MI,All-rounder,Overseas,Left-hand bat,Right-arm medium
+Corbin Bosch,MI,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+AM Ghazanfar,MI,Bowler,Overseas,Right-hand bat,Right-arm offbreak
+Raj Bawa,MI,All-rounder,Indian,Left-hand bat,Right-arm fast-medium
+Raghu Sharma,MI,WK,Indian,Right-hand bat,NA
+Robin Minz,MI,WK,Indian,Right-hand bat,NA
+Ashwani Kumar,MI,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Mayank Markande,MI,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Quinton de Kock,MI,WK,Overseas,Left-hand bat,NA
+Atharva Ankolekar,MI,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Mohammad Izhar,MI,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Danish Malewar,MI,Batter,Indian,Right-hand bat,Right-arm medium
+Mayank Rawat,MI,WK,Indian,Left-hand bat,NA
+Shreyas Iyer,PBKS,Batter,Indian,Right-hand bat,Right-arm legbreak
+Marcus Stoinis,PBKS,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Marco Jansen,PBKS,All-rounder,Overseas,Left-hand bat,Left-arm fast
+Arshdeep Singh,PBKS,Bowler,Indian,Left-hand bat,Left-arm fast
+Yuzvendra Chahal,PBKS,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Lockie Ferguson,PBKS,Bowler,Overseas,Right-hand bat,Right-arm fast
+Azmatullah Omarzai,PBKS,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Shashank Singh,PBKS,All-rounder,Indian,Right-hand bat,Right-arm medium
+Prabhsimran Singh,PBKS,WK,Indian,Right-hand bat,NA
+Nehal Wadhera,PBKS,Batter,Indian,Right-hand bat,Right-arm medium
+Musheer Khan,PBKS,Batter,Indian,Left-hand bat,Left-arm orthodox
+Priyansh Arya,PBKS,Batter,Indian,Left-hand bat,NA
+Harpreet Brar,PBKS,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Harnoor Singh Pannu,PBKS,Batter,Indian,Left-hand bat,NA
+Suryansh Shedge,PBKS,All-rounder,Indian,Right-hand bat,Right-arm fast-medium
+Pyla Avinash,PBKS,All-rounder,Indian,Right-hand bat,Right-arm medium
+Vishnu Vinod,PBKS,WK,Indian,Right-hand bat,NA
+Mitch Owen,PBKS,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Xavier Bartlett,PBKS,Bowler,Overseas,Right-hand bat,Right-arm fast-medium
+Vyshak Vijaykumar,PBKS,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Yash Thakur,PBKS,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Ben Dwarshuis,PBKS,Bowler,Overseas,Left-hand bat,Left-arm fast-medium
+Cooper Connolly,PBKS,All-rounder,Overseas,Left-hand bat,Left-arm orthodox
+Vishal Nishad,PBKS,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Pravin Dubey,PBKS,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Virat Kohli,RCB,Batter,Indian,Right-hand bat,Right-arm medium
+Rajat Patidar,RCB,Batter,Indian,Right-hand bat,Right-arm medium
+Phil Salt,RCB,WK,Overseas,Right-hand bat,NA
+Josh Hazlewood,RCB,Bowler,Overseas,Left-hand bat,Right-arm fast
+Jitesh Sharma,RCB,WK,Indian,Right-hand bat,NA
+Bhuvneshwar Kumar,RCB,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Krunal Pandya,RCB,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Tim David,RCB,Batter,Overseas,Right-hand bat,Right-arm medium
+Jacob Bethell,RCB,All-rounder,Overseas,Left-hand bat,Left-arm orthodox
+Devdutt Padikkal,RCB,Batter,Indian,Left-hand bat,NA
+Nuwan Thushara,RCB,Bowler,Overseas,Right-hand bat,Right-arm fast
+Romario Shepherd,RCB,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Rasikh Dar,RCB,Bowler,Indian,Right-hand bat,Right-arm fast
+Yash Dayal,RCB,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Suyash Sharma,RCB,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Swapnil Singh,RCB,Bowler,Indian,Left-hand bat,Left-arm orthodox
+Abhinandan Singh,RCB,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Venkatesh Iyer,RCB,All-rounder,Indian,Left-hand bat,Right-arm medium
+Jacob Duffy,RCB,Bowler,Overseas,Right-hand bat,Right-arm fast-medium
+Jordan Cox,RCB,WK,Overseas,Right-hand bat,Right-arm medium
+Mangesh Yadav,RCB,Bowler,Indian,Right-hand bat,Right-arm fast
+Satvik Deswal,RCB,All-rounder,Indian,Right-hand bat,Right-arm medium
+Vicky Ostwal,RCB,Bowler,Indian,Left-hand bat,Left-arm orthodox
+Vihaan Malhotra,RCB,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Kanishk Chouhan,RCB,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Yashasvi Jaiswal,RR,Batter,Indian,Left-hand bat,Right-arm legbreak
+Riyan Parag,RR,All-rounder,Indian,Right-hand bat,Right-arm offbreak
+Ravindra Jadeja,RR,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Dhruv Jurel,RR,WK,Indian,Right-hand bat,NA
+Shimron Hetmyer,RR,Batter,Overseas,Left-hand bat,NA
+Jofra Archer,RR,Bowler,Overseas,Right-hand bat,Right-arm fast
+Ravi Bishnoi,RR,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Tushar Deshpande,RR,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Sandeep Sharma,RR,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Nandre Burger,RR,Bowler,Overseas,Right-hand bat,Left-arm fast
+Adam Milne,RR,Bowler,Overseas,Right-hand bat,Right-arm fast
+Kwena Maphaka,RR,Bowler,Overseas,Left-hand bat,Left-arm fast
+Vaibhav Suryavanshi,RR,Batter,Indian,Left-hand bat,Left-arm orthodox
+Donovan Ferreira,RR,All-rounder,Overseas,Right-hand bat,Right-arm offbreak
+Ravi Singh,RR,WK,Indian,Right-hand bat,NA
+Shubham Dubey,RR,Batter,Indian,Right-hand bat,Right-arm medium
+Kuldeep Sen,RR,Bowler,Indian,Right-hand bat,Right-arm fast
+Yudhvir Singh Charak,RR,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Lhuan-Dre Pretorius,RR,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Vignesh Puthur,RR,Bowler,Indian,Right-hand bat,Right-arm legbreak
+Sushant Mishra,RR,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Yash Raj Punja,RR,Bowler,Indian,Left-hand bat,Left-arm orthodox
+Brijesh Sharma,RR,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Aman Rao,RR,Batter,Indian,Right-hand bat,NA
+Dasun Shanaka,RR,All-rounder,Overseas,Right-hand bat,Right-arm fast-medium
+Pat Cummins,SRH,All-rounder,Overseas,Right-hand bat,Right-arm fast
+Travis Head,SRH,Batter,Overseas,Left-hand bat,Right-arm offbreak
+Abhishek Sharma,SRH,All-rounder,Indian,Left-hand bat,Left-arm orthodox
+Heinrich Klaasen,SRH,WK,Overseas,Right-hand bat,NA
+Ishan Kishan,SRH,WK,Indian,Left-hand bat,NA
+Nitish Kumar Reddy,SRH,All-rounder,Indian,Right-hand bat,Right-arm fast-medium
+Harshal Patel,SRH,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Kamindu Mendis,SRH,All-rounder,Overseas,Left-hand bat,Right-arm offbreak
+Brydon Carse,SRH,Bowler,Overseas,Right-hand bat,Right-arm fast
+Jaydev Unadkat,SRH,Bowler,Indian,Left-hand bat,Left-arm fast-medium
+Zeeshan Ansari,SRH,Bowler,Indian,Right-hand bat,Left-arm orthodox
+Eshan Malinga,SRH,Bowler,Overseas,Right-hand bat,Right-arm fast
+Harsh Dubey,SRH,All-rounder,Indian,Right-hand bat,Right-arm offbreak
+Shivang Kumar,SRH,All-rounder,Indian,Right-hand bat,Right-arm medium
+Aniket Verma,SRH,Batter,Indian,Right-hand bat,NA
+Salil Arora,SRH,WK,Indian,Right-hand bat,NA
+Sakib Hussain,SRH,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Onkar Tarmale,SRH,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Amit Kumar,SRH,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Praful Hinge,SRH,Bowler,Indian,Right-hand bat,Right-arm fast-medium
+Krains Fuletra,SRH,All-rounder,Indian,Right-hand bat,Right-arm medium
+Liam Livingstone,SRH,All-rounder,Overseas,Right-hand bat,Right-arm legbreak
+Shivam Mavi,SRH,Bowler,Indian,Right-hand bat,Right-arm fast
+Jack Edwards,SRH,All-rounder,Overseas,Right-hand bat,Right-arm offbreak
+Smaran Ravichandran,SRH,Batter,Indian,Right-hand bat,NA

@@ -1,0 +1,111 @@
+rank,tier,cliff,gap,player,team_2026,role_2026,nationality,expected_batting_pos,expected_overs_bowled,pred_pts_per_match,pred_season_total,floor_p10,ceiling_p90,consistency_std,dud_rate,boom_rate,expected_games,games_confidence,is_returning,matches_2025,notes
+1,1,False,,Suryakumar Yadav,MI,Batter,Indian,3,0,87.3,1136.0,57.5,136.5,31.8,0.0,0.75,13,High,True,16,No.3/anchor; 360-degree batter
+2,2,True,220.0,Cameron Green,KKR,All-rounder,Overseas,3,4,65.5,916.0,23.1,154.0,38.5,0.3,0.2,14,High,False,0,Overseas; INR 25.20 cr record buy; pace-bowling allrounder
+3,2,False,37.0,Shreyas Iyer,PBKS,Batter,Indian,3,0,62.8,879.0,10.0,181.2,67.6,0.24,0.47,14,High,True,17,Captain; premier Indian middle-order bat
+4,2,False,22.0,Finn Allen,KKR,Batter,Overseas,1,0,61.2,857.0,21.6,144.0,36.0,0.3,0.2,14,High,False,0,Overseas; NZ explosive opener
+5,2,True,57.0,Heinrich Klaasen,SRH,WK,Overseas,4,0,72.7,800.0,44.6,129.8,48.9,0.0,0.62,11,Medium,True,13,Overseas; SA power-hitting WK; middle-order destroyer
+6,3,False,7.0,Nicholas Pooran,LSG,WK,Overseas,4,0,66.1,793.0,22.3,181.7,66.9,0.0,0.57,12,High,True,14,Overseas; WI explosive power-hitter
+7,3,False,9.0,B Sai Sudharsan,GT,Batter,Indian,2,0,65.3,784.0,34.6,172.0,54.0,0.0,0.8,12,High,True,15,Left-hand opener; elegant stroke-maker
+8,3,False,14.0,Jos Buttler,GT,WK,Overseas,3,0,64.1,770.0,13.5,152.7,60.6,0.14,0.71,12,High,True,14,Overseas; England WK-bat; explosive top-order
+9,3,True,53.0,KL Rahul,DC,Batter,Indian,1,0,65.2,717.0,19.0,200.6,70.1,0.0,0.62,11,Medium,True,13,Opens batting; experienced Indian top-order bat
+10,3,False,6.0,Shashank Singh,PBKS,All-rounder,Indian,7,1,59.2,711.0,5.3,114.5,47.0,0.36,0.43,12,High,True,14,Indian finisher; part-time medium pace
+11,3,False,38.0,Mitchell Marsh,LSG,All-rounder,Overseas,3,2,61.2,673.0,3.2,164.4,70.0,0.23,0.69,11,Medium,True,13,Overseas; Australian pace-bowling allrounder
+12,3,False,0.0,Hardik Pandya,MI,All-rounder,Indian,5,4,56.1,673.0,7.4,144.0,66.7,0.33,0.4,12,High,True,15,Captain; pace-bowling allrounder
+13,3,False,0.0,Pathum Nissanka,DC,Batter,Overseas,2,0,61.2,673.0,21.6,144.0,36.0,0.3,0.2,11,Medium,False,0,Overseas; SL opener; competes with Ben Duckett for opening spot
+14,3,False,14.0,Ayush Badoni,LSG,Batter,Indian,5,1,60.0,659.0,13.6,91.6,39.1,0.15,0.46,11,Medium,True,13,Young Indian bat; innovative middle-order player
+15,4,False,16.0,Blessing Muzarabani,KKR,Bowler,Overseas,11,4,45.9,643.0,16.2,108.0,27.0,0.3,0.2,14,High,False,0,Overseas; Zimbabwe pacer; replaced Mustafizur Rahman
+16,4,False,0.0,Kagiso Rabada,GT,Bowler,Overseas,9,4,45.9,643.0,16.2,108.0,27.0,0.3,0.2,14,High,False,0,Overseas; SA pace spearhead
+17,4,False,0.0,Anrich Nortje,LSG,Bowler,Overseas,10,4,45.9,643.0,16.2,108.0,27.0,0.3,0.2,14,High,False,0,Overseas; SA express pacer
+18,4,False,0.0,Varun Chakravarthy,KKR,Bowler,Indian,9,4,45.9,643.0,16.2,108.0,27.0,0.3,0.2,14,High,False,0,India mystery spinner; excellent economy
+19,4,False,0.0,T Natarajan,DC,Bowler,Indian,11,4,45.9,643.0,16.2,108.0,27.0,0.3,0.2,14,High,False,0,Left-arm yorker specialist
+20,4,False,0.0,Prashant Veer,CSK,All-rounder,Indian,7,4,45.9,643.0,16.2,108.0,27.0,0.3,0.2,14,High,False,0,INR 14.20 cr uncapped buy; off-spin allrounder
+21,4,False,0.0,Jamie Overton,CSK,All-rounder,Overseas,9,4,45.9,643.0,16.2,108.0,27.0,0.3,0.2,14,High,False,0,Overseas; pace-bowling allrounder
+22,4,False,10.0,Shubman Gill,GT,Batter,Indian,1,0,52.7,633.0,14.4,173.4,63.0,0.13,0.67,12,High,True,15,Captain; Indian top-order mainstay
+23,4,False,8.0,Nehal Wadhera,PBKS,Batter,Indian,5,0,52.1,625.0,16.8,108.0,42.6,0.07,0.33,12,High,True,15,Power-hitting Indian middle-order bat
+24,4,False,1.0,Noor Ahmad,CSK,Bowler,Overseas,10,4,52.0,624.0,26.9,145.1,50.3,0.07,0.43,12,High,True,14,Overseas; Afghan left-arm wrist spinner
+25,4,False,5.0,Tilak Varma,MI,Batter,Indian,4,0,47.6,619.0,11.5,97.0,37.9,0.38,0.38,13,High,True,16,Young Indian star; consistent middle-order bat
+26,4,False,0.0,Virat Kohli,RCB,Batter,Indian,1,0,51.6,619.0,18.6,134.0,46.9,0.07,0.67,12,High,True,15,Opens batting; all-time IPL run-scorer
+27,4,False,0.0,Glenn Phillips,GT,All-rounder,Overseas,4,2,44.2,619.0,15.6,104.0,26.0,0.3,0.2,14,High,False,0,Overseas; NZ power-hitter with offbreak bowling
+28,4,False,0.0,Jacob Bethell,RCB,All-rounder,Overseas,5,2,44.2,619.0,15.6,104.0,26.0,0.3,0.2,14,High,False,0,Overseas; England young gun; left-arm orthodox spin option
+29,4,False,10.0,Yashasvi Jaiswal,RR,Batter,Indian,1,0,50.8,609.0,21.3,138.8,50.4,0.0,0.64,12,High,True,14,India opener; aggressive left-hand bat
+30,4,False,0.0,Dhruv Jurel,RR,WK,Indian,5,0,55.3,609.0,13.4,109.0,43.7,0.15,0.46,11,Medium,True,13,India WK-bat; can bat middle order
+31,4,False,7.0,Riyan Parag,RR,All-rounder,Indian,3,1,50.2,602.0,25.9,85.8,52.0,0.07,0.57,12,High,True,14,Captain; right-hand bat; part-time offbreak
+32,4,False,1.0,Naman Dhir,MI,All-rounder,Indian,7,1,50.1,601.0,14.4,90.9,31.6,0.14,0.29,12,High,True,14,Young left-hand bat; part-time offbreak
+33,4,False,4.0,Shivam Dube,CSK,All-rounder,Indian,6,1,49.8,597.0,19.8,78.7,26.4,0.07,0.36,12,High,True,14,Left-hand power hitter; part-time medium pace
+34,4,False,9.0,Ravindra Jadeja,RR,All-rounder,Indian,6,4,49.0,588.0,15.4,127.1,46.3,0.14,0.57,12,High,True,14,India legend; left-arm orthodox; traded from CSK
+35,4,False,3.0,Tristan Stubbs,DC,Batter,Overseas,6,0,48.8,585.0,7.8,73.4,28.2,0.29,0.5,12,High,True,14,Overseas; SA explosive middle-order bat
+36,4,False,1.0,MS Dhoni,CSK,WK,Indian,8,0,48.6,584.0,8.6,77.3,29.1,0.29,0.29,12,High,True,14,Finisher/WK; likely final IPL season
+37,4,False,20.0,Krunal Pandya,RCB,All-rounder,Indian,8,4,47.0,564.0,9.4,132.8,52.5,0.33,0.47,12,High,True,15,Left-arm orthodox spin; batting utility in middle order
+38,4,False,20.0,Shimron Hetmyer,RR,Batter,Overseas,4,0,45.3,544.0,12.9,81.8,29.5,0.14,0.14,12,High,True,14,Overseas; WI left-hand power-hitter
+39,5,False,21.0,Trent Boult,MI,Bowler,Overseas,10,4,40.2,523.0,9.0,123.0,45.3,0.25,0.38,13,High,True,16,Overseas; elite left-arm new-ball bowler
+40,5,False,0.0,Marco Jansen,PBKS,All-rounder,Overseas,8,4,43.5,523.0,19.7,95.8,37.4,0.14,0.43,12,High,True,14,Overseas; SA left-arm fast-bowling allrounder
+41,5,False,8.0,Prasidh Krishna,GT,Bowler,Indian,11,4,42.9,515.0,18.8,102.4,38.5,0.13,0.67,12,High,True,15,Tall Indian seamer; bounce and pace; may rotate
+42,5,False,2.0,Prabhsimran Singh,PBKS,WK,Indian,1,0,36.6,513.0,14.0,159.6,55.4,0.17,0.5,14,High,True,18,Aggressive opener-WK
+43,5,False,4.0,Arshdeep Singh,PBKS,Bowler,Indian,11,4,39.1,509.0,6.0,112.0,43.9,0.25,0.5,13,High,True,16,India left-arm death-overs specialist
+44,5,False,4.0,Mangesh Yadav,RCB,Bowler,Indian,11,4,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,Express pace; replaces injured Yash Dayal; uncapped
+45,5,False,0.0,Dasun Shanaka,RR,All-rounder,Overseas,7,3,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,Overseas; SL T20I captain; replaced injured Sam Curran
+46,5,False,0.0,Matt Henry,CSK,Bowler,Overseas,11,4,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,Overseas; NZ seamer; competes with Nathan Ellis for spot
+47,5,False,0.0,Nuwan Thushara,RCB,Bowler,Overseas,10,4,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,Overseas; SL pacer; competes with Jacob Duffy; NOC uncertainty
+48,5,False,0.0,Shivam Mavi,SRH,Bowler,Indian,10,4,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,Indian seamer; plays when overseas quota full (Malinga is backup overseas pacer)
+49,5,False,0.0,Mayank Yadav,LSG,Bowler,Indian,11,4,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,Express pace; fitness concerns; may miss some games
+50,5,False,0.0,Nandre Burger,RR,Bowler,Overseas,11,4,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,Overseas; SA left-arm pacer; competes with Adam Milne/Maphaka
+51,5,False,0.0,Auqib Nabi Dar,DC,All-rounder,Indian,9,4,45.9,505.0,16.2,108.0,27.0,0.3,0.2,11,Medium,False,0,J&K seam-bowling allrounder; uncapped; INR 8.40 cr buy
+52,5,False,13.0,Rajat Patidar,RCB,Batter,Indian,4,0,41.0,492.0,15.5,95.7,35.6,0.14,0.21,12,High,True,14,Captain; middle-order mainstay
+53,5,False,7.0,Pat Cummins,SRH,All-rounder,Overseas,8,4,40.4,485.0,5.8,126.7,51.7,0.29,0.57,12,High,True,14,Overseas; Australia captain; back injury concern early season
+54,5,False,17.0,Tim David,RCB,Batter,Overseas,6,0,58.5,468.0,5.9,94.5,38.9,0.2,0.3,8,Medium,True,10,Overseas; designated power-hitter/finisher
+55,5,False,10.0,Angkrish Raghuvanshi,KKR,Batter,Indian,4,0,50.8,458.0,13.0,78.0,28.6,0.18,0.36,9,Medium,True,11,Young Indian bat; may rotate based on form
+56,5,False,4.0,Rishabh Pant,LSG,WK,Indian,1,0,37.9,454.0,6.0,95.6,62.6,0.36,0.14,12,High,True,14,Captain and WK; opens or bats top 3
+57,5,False,4.0,Jasprit Bumrah,MI,Bowler,Indian,11,4,45.0,450.0,19.3,136.1,48.2,0.08,0.42,10,Medium,True,12,India's best fast bowler; death overs specialist
+58,5,False,4.0,Priyansh Arya,PBKS,Batter,Indian,2,0,31.9,446.0,12.0,147.3,59.5,0.11,0.33,14,High,True,18,Left-hand aggressive opener; may alternate
+59,5,False,1.0,Ishan Kishan,SRH,WK,Indian,3,0,37.1,445.0,5.3,161.6,70.2,0.36,0.36,12,High,True,14,Interim captain while Cummins injured; WK-bat
+60,5,False,8.0,Aiden Markram,LSG,Batter,Overseas,2,1,39.8,437.0,22.6,152.4,54.0,0.08,0.69,11,Medium,True,13,Overseas; SA top-order bat; part-time off-spin
+61,6,False,8.0,Ajinkya Rahane,KKR,Batter,Indian,2,0,42.9,429.0,31.2,122.8,35.2,0.0,0.58,10,Medium,True,12,Captain; anchor role; experienced
+62,6,False,5.0,Phil Salt,RCB,WK,Overseas,2,0,38.6,424.0,20.0,139.6,49.7,0.08,0.54,11,Medium,True,13,Overseas; explosive keeper-opener
+63,6,False,5.0,Dewald Brevis,CSK,Batter,Overseas,5,1,83.8,419.0,44.0,123.5,39.2,0.0,0.83,5,Low,True,6,Overseas; explosive middle-order bat with part-time legbreak
+64,6,False,5.0,Nitish Kumar Reddy,SRH,All-rounder,Indian,5,2,37.6,414.0,7.2,61.6,21.7,0.23,0.15,11,Medium,True,13,Young Indian allrounder; seam and bat utility
+65,6,False,0.0,Ramandeep Singh,KKR,All-rounder,Indian,7,1,46.0,414.0,27.0,72.0,25.6,0.09,0.27,9,Medium,True,11,Indian allrounder; handy medium pace
+66,6,False,0.0,Rinku Singh,KKR,Batter,Indian,5,0,46.0,414.0,27.0,72.0,25.6,0.09,0.27,9,Medium,True,11,Finisher; left-hand middle-order bat
+67,6,False,2.0,Harshal Patel,SRH,Bowler,Indian,7,4,37.4,412.0,7.8,134.2,48.6,0.23,0.23,11,Medium,True,13,Experienced Indian seamer; death overs specialist
+68,6,False,1.0,Bhuvneshwar Kumar,RCB,Bowler,Indian,9,4,34.3,411.0,21.6,82.7,31.6,0.07,0.29,12,High,True,14,Experienced Indian seamer; swing and death bowling
+69,6,False,6.0,Shahbaz Ahmed,LSG,All-rounder,Indian,7,4,33.7,405.0,6.0,84.7,36.7,0.36,0.36,12,High,True,14,Left-arm orthodox spin allrounder
+70,6,False,7.0,Abhishek Sharma,SRH,All-rounder,Indian,2,2,49.8,398.0,5.9,84.9,42.2,0.2,0.3,8,Medium,True,10,Vice-captain; left-hand opener; left-arm orthodox
+71,6,False,0.0,Ashutosh Sharma,DC,All-rounder,Indian,7,1,49.8,398.0,5.9,84.9,42.2,0.2,0.3,8,Medium,True,10,Right-hand power hitter; part-time medium pace
+72,6,False,2.0,Axar Patel,DC,All-rounder,Indian,3,4,36.0,396.0,16.2,125.6,48.3,0.15,0.46,11,Medium,True,13,Captain; left-arm orthodox spin allrounder
+73,6,False,2.0,Will Jacks,MI,All-rounder,Overseas,6,2,35.8,394.0,12.6,126.0,46.8,0.15,0.38,11,Medium,True,13,Overseas; power-hitting allrounder with off-spin
+74,6,False,1.0,Tejasvi Singh,KKR,WK,Indian,6,0,35.7,393.0,12.6,84.0,21.0,0.3,0.2,11,Medium,False,0,Young WK-bat from Delhi; uncapped; power-hitter
+75,6,False,6.0,Vaibhav Arora,KKR,Bowler,Indian,10,4,38.7,387.0,32.5,97.2,30.7,0.08,0.33,10,Medium,True,12,Indian seamer; leads pace attack with Harshit Rana injured
+76,6,False,1.0,Abdul Samad,LSG,All-rounder,Indian,6,1,35.1,386.0,6.0,66.8,29.0,0.54,0.23,11,Medium,True,13,Power-hitting allrounder; part-time legbreak
+77,6,False,14.0,Yuzvendra Chahal,PBKS,Bowler,Indian,10,4,33.8,372.0,5.6,133.0,49.9,0.31,0.23,11,Medium,True,13,India's leading IPL wicket-taker; legbreak
+78,6,False,1.0,Mitchell Starc,DC,Bowler,Overseas,10,4,37.1,371.0,5.7,130.3,60.7,0.33,0.25,10,Medium,True,12,Overseas; elite left-arm fast; powerplay/death specialist
+79,6,False,3.0,M Shahrukh Khan,GT,All-rounder,Indian,6,1,40.9,368.0,16.0,78.0,34.9,0.09,0.27,9,Medium,True,11,Power-hitting finisher; part-time medium pace
+80,6,False,11.0,Mohammed Siraj,GT,Bowler,Indian,10,4,29.7,357.0,5.0,120.4,50.4,0.27,0.27,12,High,True,15,India fast bowler; new-ball and death overs
+81,7,False,8.0,Mitchell Santner,MI,All-rounder,Overseas,8,4,31.7,349.0,13.4,83.6,36.1,0.15,0.23,11,Medium,True,13,Overseas; left-arm orthodox spin allrounder
+82,7,False,29.0,Marcus Stoinis,PBKS,All-rounder,Overseas,4,2,32.0,320.0,7.2,76.0,30.1,0.33,0.17,10,Medium,True,12,Overseas; Aus pace-bowling allrounder
+83,7,False,6.0,Travis Head,SRH,Batter,Overseas,1,1,31.4,314.0,12.8,149.3,57.4,0.17,0.42,10,Medium,True,12,Overseas; Aus aggressive opener; part-time offbreak
+84,7,False,7.0,Harpreet Brar,PBKS,All-rounder,Indian,9,4,51.1,307.0,26.2,100.4,37.1,0.14,0.43,6,Low,True,7,Left-arm orthodox spin allrounder
+85,7,False,7.0,Rahul Tewatia,GT,All-rounder,Indian,7,2,25.0,300.0,7.2,29.9,12.9,0.43,0.0,12,High,True,14,Left-hand bat finisher; legbreak part-timer
+86,7,False,6.0,Rohit Sharma,MI,Batter,Indian,1,0,24.5,294.0,13.8,152.0,58.0,0.13,0.27,12,High,True,15,Opens batting; MI legend
+87,7,False,5.0,Jaydev Unadkat,SRH,Bowler,Indian,11,4,48.2,289.0,25.8,116.4,43.1,0.14,0.43,6,Low,True,7,Experienced Indian left-arm seamer; swing option
+88,7,False,2.0,Venkatesh Iyer,RCB,All-rounder,Indian,7,2,40.9,287.0,10.5,104.1,49.1,0.38,0.25,7,Low,True,8,Left-hand bat allrounder; medium pace option
+89,7,False,8.0,Ayush Mhatre,CSK,Batter,Indian,3,0,46.5,279.0,13.0,134.6,61.1,0.14,0.71,6,Low,True,7,Young talent; may bat 3 or be used as impact sub
+90,7,False,1.0,Avesh Khan,LSG,Bowler,Indian,8,4,39.8,278.0,30.2,47.2,9.9,0.0,0.0,7,Medium,True,9,Indian seamer; takes Hasaranga spot when overseas quota full
+91,7,False,5.0,Jofra Archer,RR,Bowler,Overseas,9,4,27.3,273.0,16.8,73.1,31.3,0.08,0.42,10,Medium,True,12,Overseas; England express pacer; fitness history is a concern
+92,7,False,5.0,Shardul Thakur,MI,All-rounder,Indian,9,4,33.5,268.0,13.6,94.8,42.5,0.1,0.4,8,Medium,True,10,Seam-bowling allrounder; may rotate with Deepak Chahar
+93,7,False,1.0,David Miller,DC,Batter,Overseas,5,0,33.3,267.0,10.8,59.2,18.1,0.2,0.1,8,Medium,True,10,Overseas; SA left-hand finisher
+94,7,False,7.0,Kuldeep Yadav,DC,Bowler,Indian,8,4,21.7,260.0,8.0,90.8,37.1,0.36,0.36,12,High,True,14,India's premier wrist spinner
+95,7,False,6.0,Kartik Sharma,CSK,All-rounder,Indian,4,2,50.8,254.0,8.8,109.6,51.1,0.4,0.4,5,Low,True,5,INR 14.20 cr uncapped buy; left-arm spin allrounder
+96,7,False,6.0,Vaibhav Suryavanshi,RR,Batter,Indian,2,0,41.4,248.0,8.0,159.8,75.8,0.29,0.57,6,Low,True,7,Youngest IPL player; left-hand opener
+97,7,False,9.0,Ravi Bishnoi,RR,Bowler,Indian,8,4,23.9,239.0,5.7,74.1,28.3,0.33,0.33,10,Medium,True,12,India legspinner; INR 7.2 cr auction buy
+98,7,False,1.0,Washington Sundar,GT,All-rounder,Indian,5,4,47.5,238.0,29.0,101.5,34.8,0.0,0.5,5,Low,True,6,Off-spin allrounder; crucial in middle overs
+99,7,False,2.0,Devdutt Padikkal,RCB,Batter,Indian,3,0,29.5,236.0,4.7,108.5,45.6,0.3,0.5,8,Medium,True,10,Left-hand bat; elegant top-order player
+100,7,False,6.0,Sanju Samson,CSK,WK,Indian,2,0,32.8,230.0,24.6,113.6,38.9,0.0,0.56,7,Medium,True,9,Traded from RR; aggressive opener/top-order bat
+101,7,False,3.0,Liam Livingstone,SRH,All-rounder,Overseas,6,2,32.4,227.0,4.4,91.2,40.3,0.44,0.22,7,Medium,True,9,Overseas; England power-hitter; legbreak bowling
+102,7,False,21.0,Azmatullah Omarzai,PBKS,All-rounder,Overseas,6,4,29.4,206.0,23.8,84.7,30.5,0.12,0.38,7,Low,True,8,Overseas; Afghan seam-bowling allrounder
+103,7,False,21.0,Tushar Deshpande,RR,Bowler,Indian,10,4,23.2,185.0,0.9,75.9,36.0,0.4,0.3,8,Medium,True,10,Indian seamer; consistent wicket-taker
+104,7,False,5.0,Karun Nair,DC,Batter,Indian,4,0,25.8,180.0,2.0,121.9,65.3,0.25,0.38,7,Low,True,8,Middle-order bat; strong domestic form
+105,7,True,43.0,Ruturaj Gaikwad,CSK,Batter,Indian,1,0,27.5,137.0,7.0,124.2,62.9,0.6,0.4,5,Low,True,5,Captain; opens the batting
+106,7,False,14.0,Rashid Khan,GT,All-rounder,Overseas,8,4,10.2,123.0,4.4,73.0,32.6,0.33,0.2,12,High,True,15,Overseas; world-class leg-spinner; lower-order hitter
+107,7,False,10.0,Mohammed Shami,LSG,Bowler,Indian,9,4,16.1,113.0,0.8,56.0,28.0,0.44,0.11,7,Medium,True,9,India seamer; fitness concerns post-injury
+108,7,False,5.0,Sunil Narine,KKR,All-rounder,Overseas,8,4,10.8,108.0,20.3,186.0,68.2,0.08,0.67,10,Medium,True,12,Overseas; mystery spinner; can pinch-hit
+109,7,False,17.0,Zeeshan Ansari,SRH,Bowler,Indian,9,4,11.3,91.0,5.4,54.1,32.3,0.5,0.1,8,Medium,True,10,Young left-arm orthodox spinner; uncapped talent
+110,7,True,63.0,Quinton de Kock,MI,WK,Overseas,2,0,3.9,28.0,5.0,100.0,67.9,0.62,0.12,7,Low,True,8,Overseas; explosive keeper-opener
