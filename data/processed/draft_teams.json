@@ -1,0 +1,563 @@
+[
+  {
+    "name": "Bapu Bravers",
+    "players": [
+      {
+        "player": "Abhishek Sharma",
+        "ipl_team": "SRH",
+        "role_tag": "2x Captain"
+      },
+      {
+        "player": "Tim Seifert",
+        "ipl_team": "KKR",
+        "role_tag": "1.5x VC"
+      },
+      {
+        "player": "Auqib Nabi Dar",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Mohammed Siraj",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Harsh Dubey",
+        "ipl_team": "SRH",
+        "role_tag": ""
+      },
+      {
+        "player": "Ryan Rickelton",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Heinrich Klaasen",
+        "ipl_team": "SRH",
+        "role_tag": ""
+      },
+      {
+        "player": "Rinku Singh",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Mohammed Shami",
+        "ipl_team": "LSG",
+        "role_tag": ""
+      },
+      {
+        "player": "David Miller",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Washington Sundar",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Marcus Stoinis",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Swapnil Singh",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Ravi Singh",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Sarfaraz Khan",
+        "ipl_team": "CSK",
+        "role_tag": ""
+      }
+    ]
+  },
+  {
+    "name": "Thalakai XI",
+    "players": [
+      {
+        "player": "Virat Kohli",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Jasprit Bumrah",
+        "ipl_team": "MI",
+        "role_tag": "2x Captain"
+      },
+      {
+        "player": "Rohit Sharma",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Rashid Khan",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Shivam Dube",
+        "ipl_team": "CSK",
+        "role_tag": ""
+      },
+      {
+        "player": "Jos Buttler",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Cameron Green",
+        "ipl_team": "KKR",
+        "role_tag": "1.5x VC"
+      },
+      {
+        "player": "Ravindra Jadeja",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Jason Holder",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Bhuvneshwar Kumar",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Marco Jansen",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Liam Livingstone",
+        "ipl_team": "SRH",
+        "role_tag": ""
+      },
+      {
+        "player": "Arjun Tendulkar",
+        "ipl_team": "LSG",
+        "role_tag": ""
+      },
+      {
+        "player": "Rachin Ravindra",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Azmatullah Omarzai",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      }
+    ]
+  },
+  {
+    "name": "smhvigorously",
+    "players": [
+      {
+        "player": "Travis Head",
+        "ipl_team": "SRH",
+        "role_tag": ""
+      },
+      {
+        "player": "Varun Chakravarthy",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Mitchell Marsh",
+        "ipl_team": "LSG",
+        "role_tag": ""
+      },
+      {
+        "player": "Shreyas Iyer",
+        "ipl_team": "PBKS",
+        "role_tag": "1.5x VC"
+      },
+      {
+        "player": "Rajat Patidar",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Dewald Brevis",
+        "ipl_team": "CSK",
+        "role_tag": ""
+      },
+      {
+        "player": "Axar Patel",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Mitchell Santner",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Romario Shepherd",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Angkrish Raghuvanshi",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Kagiso Rabada",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Jacob Duffy",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Sandeep Sharma",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Ayush Badoni",
+        "ipl_team": "LSG",
+        "role_tag": ""
+      },
+      {
+        "player": "Sanju Samson",
+        "ipl_team": "CSK",
+        "role_tag": "2x Captain"
+      }
+    ]
+  },
+  {
+    "name": "Justice League",
+    "players": [
+      {
+        "player": "B Sai Sudharsan",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "KL Rahul",
+        "ipl_team": "DC",
+        "role_tag": "2x Captain"
+      },
+      {
+        "player": "Ruturaj Gaikwad",
+        "ipl_team": "CSK",
+        "role_tag": "1.5x VC"
+      },
+      {
+        "player": "Sunil Narine",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Aiden Markram",
+        "ipl_team": "LSG",
+        "role_tag": ""
+      },
+      {
+        "player": "Suryakumar Yadav",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Kuldeep Yadav",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Noor Ahmad",
+        "ipl_team": "CSK",
+        "role_tag": ""
+      },
+      {
+        "player": "Yuzvendra Chahal",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Devdutt Padikkal",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Jofra Archer",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Pathum Nissanka",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "R Sai Kishore",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Harshal Patel",
+        "ipl_team": "SRH",
+        "role_tag": ""
+      },
+      {
+        "player": "Suyash Sharma",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      }
+    ]
+  },
+  {
+    "name": "Abba Super",
+    "players": [
+      {
+        "player": "Tilak Varma",
+        "ipl_team": "MI",
+        "role_tag": "1.5x VC"
+      },
+      {
+        "player": "Nicholas Pooran",
+        "ipl_team": "LSG",
+        "role_tag": "2x Captain"
+      },
+      {
+        "player": "Ajinkya Rahane",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Prabhsimran Singh",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Phil Salt",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Arshdeep Singh",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Krunal Pandya",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Dhruv Jurel",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Nitish Kumar Reddy",
+        "ipl_team": "SRH",
+        "role_tag": ""
+      },
+      {
+        "player": "Deepak Chahar",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Khaleel Ahmed",
+        "ipl_team": "CSK",
+        "role_tag": ""
+      },
+      {
+        "player": "Prasidh Krishna",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Will Jacks",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Vaibhav Arora",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Salil Arora",
+        "ipl_team": "SRH",
+        "role_tag": ""
+      }
+    ]
+  },
+  {
+    "name": "RCB",
+    "players": [
+      {
+        "player": "Shubman Gill",
+        "ipl_team": "GT",
+        "role_tag": "2x Captain"
+      },
+      {
+        "player": "Yashasvi Jaiswal",
+        "ipl_team": "RR",
+        "role_tag": "1.5x VC"
+      },
+      {
+        "player": "Priyansh Arya",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Finn Allen",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Jacob Bethell",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Quinton de Kock",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Shimron Hetmyer",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Tristan Stubbs",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Nitish Rana",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Trent Boult",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Digvesh Rathi",
+        "ipl_team": "LSG",
+        "role_tag": ""
+      },
+      {
+        "player": "Venkatesh Iyer",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Rahul Tewatia",
+        "ipl_team": "GT",
+        "role_tag": ""
+      },
+      {
+        "player": "Vipraj Nigam",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Ramandeep Singh",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      }
+    ]
+  },
+  {
+    "name": "Nice T Shirt",
+    "is_user": true,
+    "players": [
+      {
+        "player": "Ishan Kishan",
+        "ipl_team": "SRH",
+        "role_tag": "2x Captain"
+      },
+      {
+        "player": "Josh Hazlewood",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Hardik Pandya",
+        "ipl_team": "MI",
+        "role_tag": ""
+      },
+      {
+        "player": "Rishabh Pant",
+        "ipl_team": "LSG",
+        "role_tag": ""
+      },
+      {
+        "player": "Riyan Parag",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Ayush Mhatre",
+        "ipl_team": "CSK",
+        "role_tag": ""
+      },
+      {
+        "player": "Ravi Bishnoi",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "Mitchell Starc",
+        "ipl_team": "DC",
+        "role_tag": ""
+      },
+      {
+        "player": "Tim David",
+        "ipl_team": "RCB",
+        "role_tag": ""
+      },
+      {
+        "player": "Shashank Singh",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Lockie Ferguson",
+        "ipl_team": "PBKS",
+        "role_tag": ""
+      },
+      {
+        "player": "Rovman Powell",
+        "ipl_team": "KKR",
+        "role_tag": ""
+      },
+      {
+        "player": "Sam Curran",
+        "ipl_team": "RR",
+        "role_tag": ""
+      },
+      {
+        "player": "MS Dhoni",
+        "ipl_team": "CSK",
+        "role_tag": ""
+      },
+      {
+        "player": "Vaibhav Suryavanshi",
+        "ipl_team": "RR",
+        "role_tag": "1.5x VC"
+      }
+    ]
+  }
+]
