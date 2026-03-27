@@ -10,7 +10,7 @@ import numpy as np
 from collections import defaultdict
 
 
-# ── Dream11 T20 Scoring Rules ──────────────────────────────────────────────
+# ── Custom League Scoring Rules ─────────────────────────────────────────────
 
 SCORING = {
     # Batting
@@ -20,35 +20,37 @@ SCORING = {
     'milestone_25': 4,
     'milestone_50': 8,
     'milestone_75': 12,
-    'milestone_100': 16,  # exclusive: replaces 25/50/75
-    'duck': -2,  # only for bat/WK/AR, not pure bowlers
+    'milestone_100': 16,
+    'duck': -4,  # -4 in our league (vs -2 in Dream11)
 
-    # Strike Rate bonuses (min 10 balls faced, not for pure bowlers)
+    # Strike Rate bonuses (min 10 balls faced)
     'sr_170_plus': 6,
     'sr_150_170': 4,
     'sr_130_150': 2,
-    'sr_60_70': -2,
-    'sr_50_60': -4,
-    'sr_below_50': -6,
+    'sr_60_70': -2,   # SR < 70
+    'sr_50_60': -4,   # SR < 60
+    'sr_below_50': -6, # SR < 50
 
     # Bowling
     'wicket': 30,
-    'lbw_bowled_bonus': 8,
-    'dot_ball': 1,
-    'maiden': 12,
-    'haul_3w': 4,
-    'haul_4w': 8,
-    'haul_5w': 12,
+    'lbw_bowled_bonus': 10,  # +10 in our league (vs +8 in Dream11)
+    'dot_ball': 2,           # +2 in our league (vs +1 in Dream11) *** KEY CHANGE ***
+    'maiden': 16,            # +16 in our league (vs +12 in Dream11)
+    'haul_3w': 8,            # +8 in our league (vs +4 in Dream11)
+    'haul_4w': 12,           # +12 in our league (vs +8 in Dream11)
+    'haul_5w': 16,           # +16 in our league (vs +12 in Dream11)
 
-    # Economy Rate (min 2 overs)
-    'er_below_5': 6,
-    'er_5_6': 4,
-    'er_6_7': 2,
-    'er_10_11': -2,
-    'er_11_12': -4,
-    'er_above_12': -6,
+    # Economy Rate (min 2 overs) — much more generous than Dream11
+    'er_below_5': 10,   # +10 (vs +6)
+    'er_5_6': 8,        # +8 (vs +4)
+    'er_6_7': 6,        # +6 (vs +2)
+    'er_7_8': 2,        # +2 (NEW — doesn't exist in Dream11)
+    'er_9_10': -2,      # -2 (NEW tier — Dream11 starts at 10)
+    'er_10_11': -4,     # -4 (vs -2)
+    'er_11_12': -6,     # -6 (vs -4)
+    'er_above_12': -8,  # -8 (vs -6)
 
-    # Fielding
+    # Fielding (same as Dream11)
     'catch': 8,
     'catch_3_bonus': 4,
     'stumping': 12,
@@ -313,7 +315,7 @@ def compute_fantasy_points(matches):
             if s['wickets'] >= 3:
                 bowling_pts += SCORING['haul_3w']
 
-            # Economy rate bonus (min 2 overs)
+            # Economy rate bonus (min 2 overs) — custom league tiers
             er_bonus = 0
             if overs_bowled >= 2:
                 er = s['runs_conceded'] / overs_bowled
@@ -323,12 +325,16 @@ def compute_fantasy_points(matches):
                     er_bonus = SCORING['er_5_6']
                 elif er < 7:
                     er_bonus = SCORING['er_6_7']
-                elif er >= 12:
+                elif er < 8:
+                    er_bonus = SCORING['er_7_8']
+                elif er > 12:
                     er_bonus = SCORING['er_above_12']
-                elif er >= 11:
+                elif er > 11:
                     er_bonus = SCORING['er_11_12']
-                elif er >= 10:
+                elif er > 10:
                     er_bonus = SCORING['er_10_11']
+                elif er > 9:
+                    er_bonus = SCORING['er_9_10']
 
             # ── Fielding points ──
             fielding_pts = 0
